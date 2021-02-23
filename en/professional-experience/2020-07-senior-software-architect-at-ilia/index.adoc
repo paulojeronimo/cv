@@ -1,11 +1,11 @@
 [[_2020-07-senior-software-architect-at-ilia]]
 = Senior Software Architect at ília
 
-icon:calendar[] `July 2020 to Present` +
-icon:group[] Working as a Software Architect at {ilia}.
+icon:calendar[] `July 2020 to January 2021` +
+icon:group[] Software Architect at {ilia}.
 
-Working at {CaixaSeguradora} focused on creating {RH-SSO} ({Keycloak})
-software extensions.
+Worked for {CaixaSeguradora}, one of the customers of the employer
+{ilia}, focused on creating {RH-SSO} ({Keycloak}) software extensions.
 Basically, the things that I created to this project was written in
 {Bash} and {Java} and the last extension that I created built an
 integration between {Keycloak} and an *Interactive Voice Response* (IVR)

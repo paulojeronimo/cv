@@ -1,5 +1,5 @@
-*`July 2020 to Present` - Senior Software Architect at
+*`July 2020 to January 2021` - Senior Software Architect at
 ília* -
-Working at {CaixaSeguradora} focused on develop {RH-SSO} ({Keycloak})
+Worked at {CaixaSeguradora} focused on develop {RH-SSO} ({Keycloak})
 software extensions (written in Java).
 {uri-cv}/#_2020-07-senior-software-architect-at-ilia[Read more ...]
