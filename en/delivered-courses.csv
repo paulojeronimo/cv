@@ -1,0 +1,110 @@
+Course (abbrev);Date (or Period);Duration (hours);Customer;City
+{JavaSE8Programming} ({OracleCourse});September 2017 ({uri-weeks-2017}[week 38]);40;{Valec};{HeptaBrasilia}
+{JavaSE8Fundamentals} ({OracleCourse});September 2017 ({uri-weeks-2017}[week 37]);40;{Valec};{HeptaBrasilia}
+{JB248} ({RedHatCourse});July 2016;32;{Tecnisys};{Brasilia}
+TDD with {JavaEE} and {Arquillian};March 2015;16;{STN};{Brasilia}
+{JB248} ({RedHatCourse});December 2014;32;{SefazCE};{Fortaleza}
+{JB225} ({RedHatCourse});December 2014;32;{SefazCE};{Fortaleza}
+TDD with {JavaEE} and {Arquillian};January 2014;16;{Threeway};{Goiania}
+JBoss AS 7;January 2013;20;{CEF};{Brasilia}
+JBoss AS 6 / 7;January 2013;40;{CpdUnB};{Brasilia}
+{JavaEE} 6;December 2012;40;{CpdUnB};{Brasilia}
+JBoss EAP 5 tuning;October 2012;72;{Trt13};{JoaoPessoa}
+{JBossLadoServidor};April 2011;40;{SolucaoSE};{Brasilia}
+{JBossLadoServidor};May 2011;40;{UNIC};{PrimaveraDoLeste}
+{JavaEE} 6;July 2010;40;{UNIC};{Cuiaba}
+{JBossLadoServidor};December 2009;24;{Exercito}/ {Aeronautica};{Brasilia}
+JBoss AS tuning;December 2009;40;{Serpro};{Brasilia}
+{JBossLadoServidor};November 2009;32;{Serpro};{Brasilia}
+{EJBLadoServidor};November 2009;40;{Cabal};{Brasilia}
+{JBossLadoServidor};October 2009;32;{STN};{Brasilia}
+Seam Framework;July 2009;32;{Cabal};{Brasilia}
+JBoss AS architecture/ development;September 2008;40;{Digitro};{Florianopolis}
+JBoss AS;February 2008;40;{Pixeon};{Florianopolis}
+JBoss AS;January 2008;40;{Dataprev};{RioDeJaneiro}
+JBoss AS;January 2008;40;{Dataprev};{RioDeJaneiro}
+{RH336} ({RedHatCourse});December 2007;32;{Ambima};{RioDeJaneiro}
+{RH336} ({RedHatCourse});November 2007;32;{TrePR};{Curitiba}
+JBoss AS;September 2007;40;B2Br;{Brasilia}
+{RH336} ({RedHatCourse});August 2007;32;open class;{SaoPaulo}
+JSF;August 2007;40;{Cast};{Brasilia}
+jBPM;July 2007;12;{Trf1};{Brasilia}
+{RH336} ({RedHatCourse});June 2007;32;open class;{SaoPaulo}
+JBoss AS;November 2006;32;{Search};{Brasilia}
+{JavaEE} - JSP/Servlet;November 2006;56;{Embrapa};{Brasilia}
+Java - OO/XML;November 2006;40;{TreGO};{Goiania}
+Java - eXtreme Programming;November 2006;16;{TreGO};{Goiania}
+{JavaEE} - Hibernate/JPA;November 2006;16;{TreGO};{Goiania}
+{JavaEE} - Servlet/JSP/JSTL;November 2006;32;{TreGO};{Goiania}
+{JavaEE} - Web Frameworks;November 2006;8;{TreGO};{Goiania}
+{JavaEE} - JSF;November 2006;16;{TreGO};{Goiania}
+{JavaEE} - EJB;November 2006;24;{TreGO};{Goiania}
+C++ XML APIs;October 2006;24;{CIGE};{Brasilia}
+JBoss;September 2006;40;{CEF};{Brasilia}
+Java Design Patterns;August 2006;9;{SetasTo}/ {DetranTo};{Palmas}
+Advanced Java;July 2006;40;{Summa}/ {UOL};{SaoPaulo}
+JSF;July 2006;20;{Evoluti}/ Secretaria de Segurança Pública;{Palmas}
+Struts;July 2006;20;{Evoluti}/ Secretaria de Segurança Pública;{Palmas}
+Java Design Patterns (GoF);June 2006;24;{Password};{Goiania}
+Java OO;June 2006;16;{Password};{Goiania}
+Advanced XML;June 2006;30;{Prodasen};{Brasilia}
+XML;May 2006;24;{Prodasen};{Brasilia}
+AOP in Spring Framework;May 2006;16;{ITA};{SaoJoseDosCampos}
+Subversion;August 2005;8;{SVS};{Brasilia}
+OO/UML;August 2005;12;{SVS};{Brasilia}
+Java 5;August 2005;28;{SVS};{Brasilia}
+Java Tools;August 2005;12;{SVS};{Brasilia}
+Java Reports;August 2005;12;{SVS};{Brasilia}
+Java Tools for eXtreme Programming;August 2005;28;{SVS};{Brasilia}
+Java Web;August 2005;20;{SVS};{Brasilia}
+Java Web Hands On;August 2005;28;{SVS};{Brasilia}
+Java Web Design Patterns;August 2005;12;{SVS};{Brasilia}
+Struts & Spring Frameworks;August 2005;60;{SVS};{Brasilia}
+JBoss;July 2005;40;{Anvisa};{Brasilia}
+EJB;May 2005;24;open class;{Brasilia}
+OO/UML;April 2005;28;{Prodasen};{Brasilia}
+J2ME;March 2005;40;{SENACGO};{Goiania}
+Hibernate;March 2005;20;open class;{Brasilia}
+Struts;March 2005;32;open class;{Brasilia}
+Hibernate;February 2005;24;{SEA}/ {Exercito};{Brasilia}
+EJB;January 2005;36;Politec;{Goiania}
+Struts;November 2004;32;{SEA}/ {Exercito};{Brasilia}
+Java Tools for eXtreme Programming;November 2004;40;{SEA}/ {Exercito};{Brasilia}
+JBoss;October 2004;40;{Summa}/ {CELG};{Goiania}
+J2EE Design Patterns;October 2004;40;{Summa}/ {CELG};{Goiania}
+UML;October 2004;40;{Summa}/ {CELG};{Goiania}
+Java Security;October 2004;24;Politec/ {MJ};{Goiania}
+EJB;September 2004;8;{Prodata};{Goiania}
+OO;August 2004;8;{Cepromat};{Cuiaba}
+Java XML APIs;July 2004;40;{Poupex};{Brasilia}
+Struts;June 2004;20;{Poupex};{Brasilia}
+TDD with Java;June 2004;4;open class;{Brasilia}
+Java XML APIs;May 2004;40;{Poupex};{Brasilia}
+EJB;February 2004;40;open class;{Brasilia}
+Java 2;December 2003;40;{Accenture};{Brasilia}
+JBoss AOP;December 2003;4;{BB};{Brasilia}
+J2EE;October 2003;40;{BB};{Brasilia}
+EJB;October 2003;40;{BrasilTelecom};{Brasilia}
+XDoclet;September 2003;4;open class;{Brasilia}
+Servlet/ JSP;August 2003;60;{SOF};{Brasilia}
+Java 2;July 2003;40;{SOF};{Brasilia}
+Java Design Patterns (GoF);May 2002;24;Politec;{Brasilia}
+Java 2;April 2003;60;open class;{Brasilia}
+RUP/UML;March 2003;60;open class;{Brasilia}
+RUP/UML;September 2002;60;open class;{Brasilia}
+RUP/UML;August 2002;40;open class;{Brasilia}
+J2EE;May 2002;40;{BrasilTelecom};{Brasilia}
+XML;March 2002;40;{Anvisa};{Brasilia}
+J2EE (Quick view);Sep/1998 -> Jan/2001;2;Politec/ Secretaria da Fazenda;{Brasilia}
+HTML/JavaScript;Sep/1998 -> Jan/2001;20;Politec/ {Anatel};{Brasilia}
+PowerDesigner;Sep/1998 -> Jan/2001;20;Politec/ {Anatel};{Brasilia}
+Java;Sep/1998 -> Jan/2001;40;Politec/ {Anatel};{Brasilia}
+Java;Sep/1998 -> Jan/2001;40;Politec/ {CEF};{Brasilia}
+Delphi 4.0;Sep/1998 -> Jan/2001;40;Politec/ Secretaria da Fazenda;{Brasilia}
+J2EE (Servlet/JSP/EJB);Sep/1998 -> Jan/2001;40;Politec/ Banco do Brasil;{Brasilia}
+C for Unix;Mar/1995 -> Sep/1998;40;Câmara de Dirigentes Logistas;{Goiania}
+Data Structures and C;Mar/1995 -> Sep/1998;60;Universidade Católica de Goiás;{Goiania}
+Delphi 2.0;Mar/1995 -> Sep/1998;40;ENCIDEC;{Goiania}
+Delphi 2.0;Mar/1995 -> Sep/1998;40;SESI;{Goiania}
+Delphi 2.0;Mar/1995 -> Sep/1998;40;Escola Técnica Federal de Goiás;{Goiania}
+Delphi 2.0;Mar/1995 -> Sep/1998;40;Televisão Anhanguera;{Goiania}
