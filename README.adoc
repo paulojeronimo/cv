@@ -1,0 +1,19 @@
+= Building My Curriculum Vitae (CV)
+:icons: font
+
+[WARNING]
+====
+Do not clone this Git repository because it will be regenerated
+every that I push it.
+So you won't be able to update a clone you make from that repository
+using the `git pull` command.
+
+For now, I decided to evolve my CV in a private Git repository.
+Here (in the link:source-code.zip[]) you will only get the last sources
+of it.
+
+This code is open source (see the link:LICENSE[]).
+====
+
+* README: https://paulojeronimo.com/cv/README.html
+* Source code: https://paulojeronimo.com/cv/source-code.zip

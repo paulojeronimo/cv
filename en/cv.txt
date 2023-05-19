@@ -1,0 +1,902 @@
+Paulo Jerônimo’s CV
+
+  •  Contacts and Links
+  • Introduction
+  •  Technical Skills
+  •  Professional Experience
+      □ Founder at Finisher.Tech
+      □ Senior Software Developer at ília
+      □ Senior Software Architech at Fóton
+      □ Senior Software Developer at OSO DevOps
+      □ Senior Software Architect at Basis
+      □ Senior Software Architect at ília
+      □ Software Developer at Integer
+      □ Java Instructor at Oracle
+      □ Senior Consultant at Red Hat
+      □ Project Manager at Cebraspe
+      □ Middleware Specialist at Tecnisys
+      □ JBoss Instructor at Red Hat
+      □ Java EE Architect at Ministério da Justiça
+      □ Middleware Specialist at +2x
+      □ Java EE Architect at Capes
+      □ Websphere Specialist at IBM
+      □ Middleware Specialist at Algar
+      □ JBoss Specialist at Ambima
+      □ Java EE Architect at Brasil Telecom
+      □ Self-employed at Paulo Jerônimo ME
+      □ In The Nineties
+  •  Technical Writing
+      □ Publications
+  •  Education
+      □ Academic Background
+      □ Language Skills
+      □ Delivered Courses
+      □ Certifications
+      □ Conferences & Presentations
+  •  GitHub
+
+This is MY COMPLETE CURRICULUM VITAE (CV) available to you to understand, in detail, some of the steps and choices that I made in my career.
+
+ This CV is not suitable for printing as it is enormous and will use up almost every ink or toner in your printer! Ok, that was a joke  !
+ But, please, maybe it would be better for you to read and print my résumé (https://paulojeronimo.com/cv/en/resume.html), if you want to see the information in this CV in a much more condensed, economical in words, and suitable for printing!
+
+Last update: 2023-05-19 16:45:15 -0300
+Online version: https://paulojeronimo.com/cv/en/
+Downloadable formats: PDF, DOCX, TXT
+Project README: https://paulojeronimo.com/cv/README.html
+
+  Contacts and Links
+
+ Mobile Phone/WhatsApp: +55 61 99807 3864
+ Email: paulojeronimo@gmail.com
+Website: https://paulojeronimo.com
+ LinkedIn: https://www.linkedin.com/in/paulojeronimo/
+ GitHub: https://github.com/paulojeronimo
+Odysee: https://odysee.com/@paulojeronimo
+ YouTube: https://www.youtube.com/~paulojeronimo
+ Instagram: https://www.instagram.com/paulojeronimo74
+ Home: Brazil/Brasília
+
+ Introduction
+
+I currently work in companies in the labor market in one of the following positions:
+
+ 1. Full Stack Developer.
+
+ 2. DevOps and Site Reliability Engineer.
+
+ Please access one of the links above. They will lead you to specialized versions of my resume demonstrating my performance in these positions.
+
+Right now, I am available to work part-time or full-time.
+
+  Technical Skills
+
+ Please note that when opening most of the links below you will be redirected to my "sitemap" page where I will introduce you to some other links to projects or documents I’ve already created associated with the selected theme.
+
+  • I’m more focused on: Ubuntu, Linux Containers, Docker, Kubernetes, Cloud Platforms, DevOps, Blockchain, Smart Contracts, Ethereum, Polygon, NEAR, Bash, Solidity, Rust, Node.js, npm, pnpm, TypeScript, Nunjucks, React, React Native, Next.js, Svelte, SvelteKit, AsciiDoc, Asciidoctor, Termux, Git, GitHub, Scrum;
+
+  • Incomplete list of technologies I’ve used: Virtualization, Containers, Cloud Platforms, DevOps: Microsoft Azure, Amazon Web Services (AWS) (IAM, EC2, Lambda, SQS, Kinesis, DynamoDB, CloudShell, CodePipeline, CodeBuild, CodeDeploy), Google Cloud Platform (GCP), OpenStack, OpenShift, GitLab, BitBucket, Gradle, Nexus, Jenkins, Travis CI, Ansible, VMware, VirtualBox, KVM, Vagrant, Terraform; Operational Systems: macOS, Fedora, RHEL, CentOS, Arch Linux; Agile Methodologies and Tools: Extreme Programming, Kanban, Continuous Integration; Jira; Programming Languages: Java, Groovy, Kotlin, JavaScript, Python, Ruby, Solidity, C, C++; Testing, Code Qualily: TDD, BDD, Integration Testing, Acceptance Testing, JUnit, JMock, Mockito, Arquillian, Cucumber, Selenium, Spek, Spock, Mocha, Chai, Jest, SonarQube; Text Editors, IDEs: Vim, IntelliJ, Visual Studio Code; Java: Java EE, Hibernate, Spring, Spring Boot, JHipster, Quarkus; JavaScript: yarn, Angular, Puppeteer; Python: Django, Jinja, Chalice; API: Swagger, Postman,
+    GraphQL; Web: HTML, CSS, Sass, Styled Components, WebSocket; Mobile: Kotlin; Databases: MySQL, MSQL, Oracle, PostgreSQL, MongoDB; Documentation: UML, Markdown; Command Line Tools: Tmux, sed, awk, curl, HTTPie, jq; Configuration Languages: XML, JSON, YAML, TOML, Dhall; Middleware, Big Data: Apache Tomcat, JBoss EAP, Wildfly, Apache HTTP, Ngnix, RabbitMQ, Kafka, ELK Stack, Apache NiFi, Spring Cloud Data Flow; Security: OpenSSL, GnuPG, Passbolt, Spring Security, OAuth, OIDC, Keycloak;
+
+  Professional Experience
+
+ Founder at Finisher.Tech
+
+ October 2019 to Present
+
+Finisher.Tech is my technology startup that unites two of my passions: the pursuit of health and wellness through everyday sports and my relentless desire to produce solutions that use cutting-edge technologies like Artificial Intelligence, Blockchain and Data Visualization to make people increasingly motivated and disciplined in their health plans and wellness.
+
+I am developing decentralized applications (DApps) related to Move-To-Earn in my free time and slow steps because I think people will be adopting the technologies related to my projects in the long term. So, at the time, I’m using the knowledge related to the products I’m creating as an educational product to mentor the market on using such technologies.
+
+At the same time I work for my startup in my free time, I work for other companies simultaneously in the same tech area or others.
+
+ Senior Software Developer at ília
+
+ May 2022 to July 2022
+
+I acted as a backend developer using JavaScript and TypeScript focusing on security issues (as seen this video).
+
+In parallel, I worked in the innovation area to bring a culture of developing decentralized applications (DApps) to the company using Blockchains such as Ethereum, Polygon, and NEAR. This educational process was initiated before I rejoined ília as an employee by offering them mentoring on Web3 technologies through my own company.
+
+Other tecnnologies used working for this job during the period: Amazon Web Services (AWS), Rust.
+
+ Senior Software Architech at Fóton
+
+ April 2021 to August 2021
+
+Worked using Java and Java EE technologies in Open Banking solutions.
+
+ Senior Software Developer at OSO DevOps
+
+ February 2021 to July 2021
+
+Working as a freelancer software developer using AWS technologies (like Lambda and Kinesis) and programming in Bash, Python, JavaScript and Java.
+
+ Senior Software Architect at Basis
+
+ February 2021 to March 2021
+
+Worked at Presidência da República focused on develop a project using Spring Boot, Spring Cloud Stream and Kafka.
+
+ Senior Software Architect at ília
+
+ July 2020 to January 2021
+
+Worked for Caixa Seguradora, one of the customers of the employer ília, focused on creating RH-SSO (Keycloak) software extensions. Basically, the things that I created to this project was written in Bash and Java and the last extension that I created built an integration between Keycloak and an Interactive Voice Response (IVR) system.
+
+Some non related projects that I created in a open source way only to study or explore more about some Keycloak features that I’m using in my customizations, are exposed in these links:
+
+  • https://github.com/paulojeronimo/keycloak-robot-integration-demo
+
+  • https://paulojeronimo.com/keycloak-robot-integration/
+
+  • https://paulojeronimo.com/rh-sso-manage-users/
+
+  • https://paulojeronimo.com/keycloak-labs/
+
+  • https://paulojeronimo.com/keycloak-matrix/
+
+  • https://paulojeronimo.com/responsabilidades-keycloak
+
+ Software Developer at Integer
+
+ February 2018 to March 2018
+Working as a Software Developer in internal projects at Integer.
+
+ April 2018 to February 2019
+Through this company and its partner (Novabase), I am working as a software developer for Thales Group developing solutions at Thales Ground Transportation System.
+
+  • I worked (as an software architect and also as developer) on team focused on developing software to transportation using Spring Boot and Pivotal CloudFoundry solutions.
+
+  • I did some study to produce comparison between technologies like
+
+      □ Apache NiFi vs Spring Cloud Data Flow …​
+
+          ☆ https://github.com/paulojeronimo/apache-nifi-tutorial
+
+          ☆ https://github.com/paulojeronimo/apache-nifi-cluster-alternatives
+
+          ☆ https://github.com/paulojeronimo/spring-cloud-dataflow-tutorial
+
+          ☆ https://github.com/paulojeronimo/vagrant-nifi-cluster
+
+      □ Keycloak vs UAA …​
+
+          ☆ https://github.com/paulojeronimo/keycloak-spring-boot-tutorial
+
+          ☆ https://github.com/paulojeronimo/keycloak-resource-server-demo
+
+          ☆ https://github.com/paulojeronimo/uaa-tutorial
+
+          ☆ https://github.com/paulojeronimo/oauth-uaa-sample
+
+  • I also created some little projects to explain some techs to my colleagues …​
+
+      □ https://github.com/paulojeronimo/gs-rest-service-aws
+
+      □ https://github.com/paulojeronimo/gs-rest-service-provision-scripts
+
+      □ https://github.com/paulojeronimo/gs-rest-service-certificate
+
+      □ https://github.com/paulojeronimo/my-openssl-ca
+
+      □ https://github.com/paulojeronimo/confluence-asciidoc-integration-alternatives
+
+ Java Instructor at Oracle
+
+ September 2017 to January 2018
+
+Through my company, I acted as a Java Instructor at Oracle.
+
+I ministered official Oracle Java courses.
+
+You can see my complete list of delivered training in the topic "Delivered Courses".
+
+ Things that I used in my works:
+
+ Technologies            Tools                OS
+Java SE 8       Bash, Vim, NetBeans     Oracle Linux
+
+ Some pieces of my works, available on my GitHub account: [java-fundamentals-examples].
+
+ Senior Consultant at Red Hat
+
+ October 2016 to January 2018
+
+Through my company, I acted as a Senior Consultant at Red Hat.
+
+  •  October 2016 to August 2017:
+
+      □ I was allocated in B3 customer ( São Paulo) (previously called Cetip). My primary work on this customer was migrate several Java EE and Spring applications between different JBoss EAP versions (from 5 to 6.4). Also, I created all the new environments (local development, integration, UAT and production) for these applications.
+
+      □ I developed a project called [jboss-domain-mode-scripts]. It is a framework (written in Bash) to install JBoss EAP (domain mode) on RHEL. Some pieces of this project is available in my account on GitHub with an extensive documentation (in pt-br).
+
+  •  May 2017 to July 2017:
+
+      □ Wallace Araujo and I did a migration of several Java EE applications in Previ customer ( Rio de Janeiro). These migrations were done for applications running on JBoss EAP. The main goal was to migrate these apps from JBoss EAP 6.1 to version 6.4. To achieve this goal, we did a lot of code refactorings, Maven POM and Jenkins configurations updates. Also, we built all the new environments (from local development to production).
+
+  •  April 2017 to May 2017:
+
+      □ I built a PoC that implements a User Storage for RHSSO 7.1. This was built for Ancine customer ( Rio de Janeiro) (a Brazilian government agency). In this PoC the objective was importing users (and roles) from an external database (Oracle) to permit authentication and authorization from it, as well from Active Directory (at the same time).
+
+  •  March 2017:
+
+      □ I did a big effort to migrate a Java EE monolithic application from Oracle WebLogic to JBoss EAP 7. Unfortunately, I was unsuccessful because many components from this application were very old and it would need to be upgraded before this migration. The budget for this project wasn’t estimated for this task.
+
+ Things that I’m using in my works:
+
+                Technologies/ Frameworks                                                      Tools                                                                         Middleware                                                            Databases                              OS
+Java EE (versions from 5 to 7), Spring, VRaptor, Struts  Vim, Bash, Ant, Maven, Nexus, Jenkins, JBoss Developer Studio, Vagrant, Docker   JBoss EAP (versions from 5 to 7), RHSSO 7.1, Apache HTTP, mod_cluster, Ngnix   Oracle Database, Oracle XE, IBM Db2, Microsoft SQL Server   RHEL, macOS
+
+ Some pieces of my works, available on my GitHub account: [jboss-scripts], [jboss-domain-mode-scripts], [poc-vraptor-jboss-cluster], [struts2-crud-example], [docker-rhel-nexus], [docker-oracle-xe].
+
+ Project Manager at Cebraspe
+
+ October 2015 to September 2016
+
+I led a small team (some few developers and DevOps guys). We designed a Computer Based Test (CBT) solution (programmed in Node.js to run on Docker containers).
+
+ Middleware Specialist at Tecnisys
+
+ February 2015 to September 2015
+
+Tecnisys is a Red Hat's partner. When I was working there, also, an IBM partner.
+
+I worked for this employer offering consulting and training services on Red Hat’s Linux, middleware and cloud products, including the following servers / solutions: OpenStack, OpenShift, JBoss EAP, Wildfly, JBoss ESB, JBoss Fuse, JBoss Data Virtualization, JBoss AMQ, JBoss Developer Studio, JBoss BPM Suite, JBoss BRMS.
+
+I also did some works related to IBM products: IBM Worklight.
+
+To their customers, I recommended, specified and developed scalable architectures using these products.
+
+I helped the sales team, acting as a pre-salesman (technical) when necessary.
+
+Some tasks completed on customers:
+
+  • Celepar  Curitiba:
+
+      □ I wrote a PoC to show how to use the native management interface for Wildfly via a Java program. This PoC has published in the [wildfly-native-management-api-sample] GitHub repository.
+
+  • Secretaria do Tesouro Nacional  Brasília:
+
+      □ I was responsible to integrate JBoss Fuse with Keycloak. This solution was published in the [gerador-jboss-bpmsuite-keycloak] GitHub repository.
+
+      □ I taught the customer team about how to use the Arquillian and Forge development tools. I did it, in a course, when I wrote the publication "Java EE application tests with Arquillian".
+
+ JBoss Instructor at Red Hat
+
+ September 2014 to January 2018
+
+Through my company I worked as a Red Hat Certified Instructor (RHCI). I ministered official Red Hat courses. My teaching focus was in Red Hat JBoss Enterprise Application Platform (EAP).
+
+You can see my complete list of delivered training in the topic "Delivered Courses".
+
+ Java EE Architect at Ministério da Justiça
+
+ September 2014 to March 2015
+
+I was hired by UNDP as a Java EE consultant to build the architecture for SISLEGIS application and guide the development team to use Java EE best practices.
+
+The SISLEGIS is an open-source software that aims to meet the needs of the Secretariat of Legislative Affairs of the Ministry of Justice.
+
+I was also responsible for acting on various issues, from the development of the application until its publication in the production environment.
+
+Some available SISLEGIS components in its GitHub account:
+
+ 1. Backend (Java EE): https://github.com/pensandoodireito/sislegis-app
+
+ 2. Frontend (AngularJS): https://github.com/pensandoodireito/sislegis-app-frontend
+
+ 3. Environments for execution:
+
+     a. https://github.com/pensandoodireito/sislegis-ambiente-centos (CentOS)
+
+     b. https://github.com/pensandoodireito/sislegis-ambiente-fedora (Fedora)
+
+     c. https://github.com/pensandoodireito/sislegis-ambiente-ubuntu (Ubuntu)
+
+The SISLEGIS application has, also, a website that documents its characteristics. However, it was not updated after I left the project, and because of that, the best documentation is actually your code.
+
+ Things that I was using on this project:
+
+   Technologies/ Frameworks                                                Tools                                                     Middleware         Databases                OS
+Java EE 6, XStream, AngularJS  Vim, Bash, Ant, Maven, Nexus, VirtualBox, Vagrant, Docker, OpenShift, Eclipse, JBoss Tools     Wildfly 8, Keycloak 1.2  PostgreSQL  macOS, CentOS, Fedora, Ubuntu
+
+ Some pieces of my works, available on my GitHub account: [sislegis-app], [sislegis-app-frontend], [sislegis-ambiente], [sislegis-ambiente-ubuntu], [sislegis-ambiente-fedora], [sislegis-ambiente-centos].
+
+ Middleware Specialist at +2x
+
+ June 2013 to June 2014
+
+Acting for clients of the company, developing activities related to supporting for Linux servers (CentOS, RHEL, Debian) and middleware running Apache HTTP, Ngnix, Apache Tomcat or JBoss EAP. Supporting for applications written in Python, PHP, and Java. My main tasks were:
+
+  • Installation, configuration, administration, monitoring, tuning RHEL servers (versions 4-6) and JBoss EAP (versions 4-6).
+
+  • Deployment of applications (via scripts that I created for this task).
+
+  • Development of scripts for automation tasks (using Bash and Python).
+
+  • Configuration of web servers, clusters (RHEL and JBossEAP) and load balancers (HAProxy, Ngnix, Apache HTTP, mod_proxy, mod_proxy_balancer, mod_cluster, etc).
+
+I did these tasks in this periods/clients:
+
+  •  January 2014 to June 2014: I was allocated on Caixa Econômica Federal (CEF). CEF is the second largest public bank of Brazil.
+
+  •  June 2013 to December 2013: I was allocated on TRF-1. TRF-1 is a court of justice.
+
+ Things that I used on these works:
+
+                   Technologies/ Frameworks                                               Tools                                                                            Middleware                                                               Databases                             OS
+Java, PHP, Python, Java EE (versions up to 6), Spring, Struts  Vim, Bash, Ant, Maven, Nexus, Jenkins, Eclipse, JBoss Tools  JBoss EAP (versions up to 6), Apache HTTP, mod_cluster, mod_proxy, mod_proxy_balancer, Ngnix, HAProxy    Oracle Database, Oracle XE, PostgreSQL  RHEL, CentOS, Debian, Fedora
+
+ Java EE Architect at Capes
+
+ January 2013 to June 2013
+
+Participation in project development (Java EE) for the financial area of Capes, assisting in the implementation of a methodology of tests for applications (Test Drive Development (TDD)/ Behavior Driven Development (BDD)).
+
+ Websphere Specialist at IBM
+
+ August 2011 to June 2012
+
+I worked in the IBM WebSphere team as a consultant/expert in WebSphere Application Server (WAS) and IBM Business Monitor (used to do Business Activity Monitoring (BAM)). Main activities performed:
+
+  • Caixa Econômica Federal ( Brasília and  Osasco): Installation of IBM Business Monitor and development of the BAM project.
+
+  • Arcelor Mittal Vega ( São Francisco): Consulting in WAS.
+
+  • Bradesco Seguros ( Rio de Janeiro): Consulting in WAS.
+
+ Middleware Specialist at Algar
+
+ December 2010 to April 2011
+
+I worked in consulting and support services for JBoss, Oracle and Apache application servers, for CNPq client ( Brasília). Main responsabilities:
+
+  • Migration of Oracle server applications to JBoss.
+
+  • Tuning of servers in production.
+
+  • Installation of products for monitoring.
+
+  • Performance analysis of applications.
+
+  • Load and stress tests.
+
+  • Support to production, homologation and development environments.
+
+ JBoss Specialist at Ambima
+
+ January 2008 to April 2009
+
+I worked in supporting middleware’s infrastructure that makes up the Selic application servers, at Central Bank ( Rio de Janeiro)). I did the installation, configuration, and integration of many application servers (JBoss EAP). I also performed maintenance and monitoring of multiple instances (+ 30) in various environments (from development to production). I did the refactoring of deployments automation solution for Java EE applications that, in past, was using Bash scripts and Ant. This refactoring was made using Maven. I made the continuous integration solution using CruiseControl and Hudson.
+
+ Java EE Architect at Brasil Telecom
+
+ July 2002 to October 2004
+
+I did software architecture and development in Java, C, and C++ for many telecommunications applications. Some details:
+
+  • I worked in the area of architecture, leading to the adoption of the software development methodology of Brasil Telecom and participating in product evaluations. I was part of the group that defines the use of open source software by the company.
+
+  • I worked as a project leader in the development of ACW. This system allows the simultaneous access of several users to the Brasil Telecom telephone exchanges, providing a unique and secure web interface. It is a system developed in the J2EE standard, to run on the Oracle9iAS application server (in production environment) and in JBoss (development environment). ACW is a system rich in the use of J2EE standards and manufactured with the use of several Java Open Source tools, among them: Apache Ant, XDoclet, Middlegen, Jakarta Struts and JBoss.
+
+  • I developed the scheduling module for the MASC software (Alarms, Services and Commands) using the technologies / tools described above.
+
+  • I developed the synchronizer module for the MASC software.
+
+ Self-employed at Paulo Jerônimo ME
+
+ September 1999 to January 2018
+
+Paulo Jerônimo Treinamentos Eireli-ME was the name of my own micro company. It was founded in September 1999 with the name ALP Engenharia de Software Ltda. For many years my company lived only attending some specify customers, without a trademark. Therefore, in April 2010, I decided to give it one: Lado Servidor. Using this name, I developed many works involving the creation of custom training to many customers. Also, I gave solutions and did many services associated with Java application servers. Another work was the application development (especially in Java EE, on multiple platforms).
+
+I kept the Lado Servidor’s blog. This blog is available, now, for historical reasons. It does not suffer updates anymore. All the posts created for this blog was written in Brazilian Portuguese (pt-br). Those posts contain various solutions and tutorials for some technologies, especially those addressing the use of Java EE middleware (JBoss EAP, GlassFish, IBM WebSphere, etc). Some friends (including Marcelo Ancelmo and Bruno Borges), also with extensive knowledge in the Java EE world, contributed in adding some posts to Lado Servidor blog.
+
+In April 2014, I decided to not update Lado Servidor blog anymore. That decision was done to give more emphasis in my own name. Therefore, I asked my accountant to change the name to the current that I’m using.
+
+Through my company, I played the following roles:
+
+  • Java Instructor at Oracle.
+
+  • Senior Consultant at Red Hat.
+
+  • JBoss Instructor at Red Hat.
+
+Using the trademark Lado Servidor:
+
+  •  April 2010 → April 2014: I developed and ministered courses to many customers. Details in "Delivered Courses".
+
+  •  April 2010 → December 2010, at Cabal: I worked in the assembly of an infrastructure based on JBoss AS and the migration / transformation of services written in Java for this new infra. The migration also involved the "mavenization" of several projects, with the use of Maven 3.0 and Nexus, as well as the development of several scripts (Bash/ Python) for the automation of tasks related to the deployment of components in different environments (from development to prodution).
+
+Before the name Lado Servidor:
+
+  •  June 2007 → December 2007, at Red Hat: I was an instructor for RH336 (JBoss for Administrators) four (4) times. Details in "Delivered Courses".
+
+  •  March 2007 → September 2007, at Summa Technologies: I was a technical project leader for Sun Microsystems in the development of the B2B portal for the customer Banco do Brasil.
+
+  •  April 2003 → December 2007, at Argo Navis: I ministered courses and gave presentations in events in partnership with Helder da Rocha (the owner of this company). Details in "Delivered Courses".
+
+  •  Janurary 2006 → June 2006, at DBA Sistemas: I worked as a consultant in the development of the Integrated Public Debt System (SID) of Secretaria do Tesouro Nacional.
+
+  •  November 2005 → December 2005, at Hirix: I worked as an architect for the Lottery project of Caixa Econômica Federal in the construction of some use cases that needed to be delivered by the end of 2005. I led and followed the activities of the designers and programmers of the team (from solution design to construction of the code and its integration). I developed the monitoring solution for the network servers by EFL (lottery financial station).
+
+  •  January 2001 → September 2001, at Foton: Acting as a consultant and developer (Java and C++) in this company’s core technology.
+
+ In The Nineties
+
+ Software Developer at Politec Informática
+
+ September 1998 to January 2001
+
+I worked as software architect, system analyst, developer and trainer. My main activities were at company’s software factory and for the customer ANATEL. I did a lot of programs using Delphi and Java languages.
+
+ Self-employed at Login Informática
+
+ April 1995 to August 1998
+
+This was my first company. I developed much software in Pascal, C, and C++ languages, for various customers. This is a brief description of the main software that I developed:
+
+  • Câmara de Dirigentes Logistas (CDL-GO): Developed communication programs to interface with RENPAC (National Network Package) through X.25 and TCP/IP. These programs were written in server side using C language (on SCO Unix) and, at the client side, developed in Delphi 3.0. Aims to establish the interstate connection between the various chambers of shopkeepers leaders of Brazil.
+
+  • Rei Drogas Distribuidora Farmacêutica: I participated in the development of Pharmacies Control System. This was carried out using the Turbo C++ 3.0.
+
+  • Escola Técnica Federal de Goiás: I participated in the development of the Academic Control System of this school, using Delphi.
+
+  • Fale Grátis: I participated in the development of contact free application. In this project, I worked developing in C++ and Delphi 3.0.
+
+  • Federal University of Goiás (UFG): Participated in the development of software that controls subscriber tickets Telegoiás to provide DDD-X reports in real time. DDD-X is an actual traffic sampling, i.e., subscribers are executing the same. With this software is able to Telegoiás analyzes, through reports, offenders and critical destinations, but also determine the rate of OK a central ticketing. The application was for Intranet, the client was a browser that supports Java applets. The server was running the business rules using Delphi. The tools used were: Borland JBuilder 1.0, Borland Delphi 3.0, MS SQL Server 6.5.
+
+  • Fujioka: I developed the Postal Refund Control System, using the Borland Pascal 7.0 and OWL (Object Windows Library) for the Windows OS.
+
+ Pascal Programmer at Fujioka
+
+ April 1994 to March 1995
+
+I was hired to develop commercial systems (Financial Check Poster Control, Telesales, Postal Refund, etc) using as the Pascal programming language.
+
+My development programs were built by using with Object Oriented (OO) Pascal. OO was introduced in Pascal with Turbo Pascal 5.5. That compiler was my first compiler when I was studying Computer Science at the university.
+
+I developed several systems at this time, using Pascal until Borland Pascal version 7.0.
+
+It was at this time that I migrated my interests for object orientation in C++ and started working with this language.
+
+ COBOL Programmer at Embrace
+
+ February 1993 to March 1994
+
+My first job, working as a COBOL programmer. My responsibility was to port some code running on RM-COBOL on Digix (a UNIX clone) to MB-COBOL.
+
+  Technical Writing
+
+So far I have been directing my publications to the public that reads in Portuguese. Therefore, most of my publications are in that language. Below are some of my technical writing.
+
+ Publications
+
+  •  August 2017: "Scripts for automating tasks on JBoss EAP domain mode". This title was translated from the original title for the documentation that I wrote for project [jboss-domain-mode-scripts]: "Scripts para a automação de tarefas no JBoss EAP (em modo domain)". (PDF version with 62 pages).
+
+  •  July 2017: "Blockchain: A Graphical View". This title was translated from the original that I wrote in Brazilian Portuguese: "Blockchain: Uma Visualização Gráfica". (PDF version with 12 pages). Source code: [blockchain-demo].
+
+  •  July 2016: "Metalsmith Tutorial". This title was translated from the original that I wrote in Brazilian Portuguese: "Tutorial de Metalsmith". (PDF version with 19 pages). Source code: [tutorial-metalsmith].
+
+  •  March 2016: "Practicing Git". This title was translated from the original that I wrote in Brazilian Portuguese: "Praticando Git". (PDF version with 34 pages). Source code: [praticando-git-livro].
+
+  •  September 2015: "Keycloak Tutorial". This title was translated from the original that I wrote in Brazilian Portuguese: "Tutorial de Keycloak". (PDF version with 13 pages). Source code: [tutorial-keycloak].
+
+  •  March 2015: "Java EE application tests with Arquillian". This title was translated from the original that I wrote in Brazilian Portuguese: "Testes em aplicações Java EE com Arquillian". (PDF version with 41 pages). Source code: [javaee-tutorial-testes].
+
+  Education
+
+ Academic Background
+
+  Universidade de Brasília (UnB), 2001 → 2002
+Specialist degree. Course: Distributed Systems and Object Orientation.
+  Universidade Católica de Goiás (UCG), 1994 → 1998
+Bachelor’s degree. Course: Computer Science.
+
+ Language Skills
+
+Portuguese: Native language.
+English: Fluent → Level CEFR B2 at British Council EnglishScore Core Skills test. See some of My English Videos.
+
+ Delivered Courses
+
+Working as an instructor, I delivered official courses (Oracle/ Red Hat, for example) and also courses that I wrote on my company (or with partners) to attend customer demands.
+
+The complete list, shown below, gives you an idea of my effort to always stay tuned with the current technologies in its epoch. This list can be downloaded in CSV format and totals more than 3,400 hours training people in technology-related subjects.
+
+          Course (abbrev)                 Date (or Period)      Duration (hours)                         Customer                                City
+Java SE 8 Programming (Oracle)       September 2017 (week 38)   40                Valec                                                   Brasília
+
+Java SE 8 Fundamentals (Oracle)      September 2017 (week 37)   40                Valec                                                   Brasília
+
+JB248 (Red Hat)                      July 2016                  32                Tecnisys                                                Brasília
+
+TDD with Java EE and Arquillian      March 2015                 16                Secretaria do Tesouro Nacional                          Brasília
+
+JB248 (Red Hat)                      December 2014              32                Secretaria da Fazenda                                   Fortaleza
+
+JB225 (Red Hat)                      December 2014              32                Secretaria da Fazenda                                   Fortaleza
+
+TDD with Java EE and Arquillian      January 2014               16                3way                                                    Goiânia
+
+JBoss AS 7                           January 2013               20                Caixa Econômica Federal                                 Brasília
+
+JBoss AS 6 / 7                       January 2013               40                CPD UnB                                                 Brasília
+
+Java EE 6                            December 2012              40                CPD UnB                                                 Brasília
+
+JBoss EAP 5 tuning                   October 2012               72                Tribunal Regional do Trabalho - 13a Região              Fortaleza
+
+JBoss AS                             April 2011                 40                Solução Serviços Especializados                         Brasília
+
+JBoss AS                             May 2011                   40                UNIC                                                    Primavera do Leste
+
+Java EE 6                            July 2010                  40                UNIC                                                    Cuiabá
+
+JBoss AS                             December 2009              24                Exército/ Aeronáutica                                   Brasília
+
+JBoss AS tuning                      December 2009              40                Serpro                                                  Brasília
+
+JBoss AS                             November 2009              32                Serpro                                                  Brasília
+
+Enterprise JavaBeans (EJB)           November 2009              40                Cabal                                                   Brasília
+
+JBoss AS                             October 2009               32                Secretaria do Tesouro Nacional                          Brasília
+
+Seam Framework                       July 2009                  32                Cabal                                                   Brasília
+
+JBoss AS architecture/ development   September 2008             40                Dígitro                                                 Florianópolis
+
+JBoss AS                             February 2008              40                Pixeon                                                  Florianópolis
+
+JBoss AS                             January 2008               40                Dataprev                                                Rio de Janeiro
+
+JBoss AS                             January 2008               40                Dataprev                                                Rio de Janeiro
+
+RH336 (Red Hat)                      December 2007              32                Ambima                                                  Rio de Janeiro
+
+RH336 (Red Hat)                      November 2007              32                TRE-PR                                                  Curitiba
+
+JBoss AS                             September 2007             40                B2Br                                                    Brasília
+
+RH336 (Red Hat)                      August 2007                32                open class                                              São Paulo
+
+JSF                                  August 2007                40                Cast                                                    Brasília
+
+jBPM                                 July 2007                  12                TRF-1                                                   Brasília
+
+RH336 (Red Hat)                      June 2007                  32                open class                                              São Paulo
+
+JBoss AS                             November 2006              32                Search                                                  Brasília
+
+Java EE - JSP/Servlet                November 2006              56                Embrapa                                                 Brasília
+
+Java - OO/XML                        November 2006              40                TRE-GO                                                  Goiânia
+
+Java - eXtreme Programming           November 2006              16                TRE-GO                                                  Goiânia
+
+Java EE - Hibernate/JPA              November 2006              16                TRE-GO                                                  Goiânia
+
+Java EE - Servlet/JSP/JSTL           November 2006              32                TRE-GO                                                  Goiânia
+
+Java EE - Web Frameworks             November 2006              8                 TRE-GO                                                  Goiânia
+
+Java EE - JSF                        November 2006              16                TRE-GO                                                  Goiânia
+
+Java EE - EJB                        November 2006              24                TRE-GO                                                  Goiânia
+
+C++ XML APIs                         October 2006               24                CIGE                                                    Brasília
+
+JBoss                                September 2006             40                Caixa Econômica Federal                                 Brasília
+
+Java Design Patterns                 August 2006                9                 Setas/ Detran                                           Palmas
+
+Advanced Java                        July 2006                  40                Summa Technologies/ UOL                                 São Paulo
+
+JSF                                  July 2006                  20                Evoluti Tecnologia/ Secretaria de Segurança Pública     Palmas
+
+Struts                               July 2006                  20                Evoluti Tecnologia/ Secretaria de Segurança Pública     Palmas
+
+Java Design Patterns (GoF)           June 2006                  24                Password Informática                                    Goiânia
+
+Java OO                              June 2006                  16                Password Informática                                    Goiânia
+
+Advanced XML                         June 2006                  30                Prodasen                                                Brasília
+
+XML                                  May 2006                   24                Prodasen                                                Brasília
+
+AOP in Spring Framework              May 2006                   16                ITA                                                     São José dos Campos
+
+Subversion                           August 2005                8                 Secretaria de Vigilância em Saúde                       Brasília
+
+OO/UML                               August 2005                12                Secretaria de Vigilância em Saúde                       Brasília
+
+Java 5                               August 2005                28                Secretaria de Vigilância em Saúde                       Brasília
+
+Java Tools                           August 2005                12                Secretaria de Vigilância em Saúde                       Brasília
+
+Java Reports                         August 2005                12                Secretaria de Vigilância em Saúde                       Brasília
+
+Java Tools for eXtreme Programming   August 2005                28                Secretaria de Vigilância em Saúde                       Brasília
+
+Java Web                             August 2005                20                Secretaria de Vigilância em Saúde                       Brasília
+
+Java Web Hands On                    August 2005                28                Secretaria de Vigilância em Saúde                       Brasília
+
+Java Web Design Patterns             August 2005                12                Secretaria de Vigilância em Saúde                       Brasília
+
+Struts & Spring Frameworks           August 2005                60                Secretaria de Vigilância em Saúde                       Brasília
+
+JBoss                                July 2005                  40                Anvisa                                                  Brasília
+
+EJB                                  May 2005                   24                open class                                              Brasília
+
+OO/UML                               April 2005                 28                Prodasen                                                Brasília
+
+J2ME                                 March 2005                 40                Senac                                                   Goiânia
+
+Hibernate                            March 2005                 20                open class                                              Brasília
+
+Struts                               March 2005                 32                open class                                              Brasília
+
+Hibernate                            February 2005              24                SEA Tecnologia/ Exército                                Brasília
+
+EJB                                  January 2005               36                Politec                                                 Goiânia
+
+Struts                               November 2004              32                SEA Tecnologia/ Exército                                Brasília
+
+Java Tools for eXtreme Programming   November 2004              40                SEA Tecnologia/ Exército                                Brasília
+
+JBoss                                October 2004               40                Summa Technologies/ Celg Distribuição                   Goiânia
+
+J2EE Design Patterns                 October 2004               40                Summa Technologies/ Celg Distribuição                   Goiânia
+
+UML                                  October 2004               40                Summa Technologies/ Celg Distribuição                   Goiânia
+
+Java Security                        October 2004               24                Politec/ Ministério da Justiça                          Goiânia
+
+EJB                                  September 2004             8                 Prodata Gestão Estratégica                              Goiânia
+
+OO                                   August 2004                8                 Cepromat                                                Cuiabá
+
+Java XML APIs                        July 2004                  40                Poupex                                                  Brasília
+
+Struts                               June 2004                  20                Poupex                                                  Brasília
+
+TDD with Java                        June 2004                  4                 open class                                              Brasília
+
+Java XML APIs                        May 2004                   40                Poupex                                                  Brasília
+
+EJB                                  February 2004              40                open class                                              Brasília
+
+Java 2                               December 2003              40                Accenture                                               Brasília
+
+JBoss AOP                            December 2003              4                 Banco do Brasil                                         Brasília
+
+J2EE                                 October 2003               40                Banco do Brasil                                         Brasília
+
+EJB                                  October 2003               40                BrasilTelecom (Oi)                                      Brasília
+
+XDoclet                              September 2003             4                 open class                                              Brasília
+
+Servlet/ JSP                         August 2003                60                Secretaria de Oraçamento Federal                        Brasília
+
+Java 2                               July 2003                  40                Secretaria de Oraçamento Federal                        Brasília
+
+Java Design Patterns (GoF)           May 2002                   24                Politec                                                 Brasília
+
+Java 2                               April 2003                 60                open class                                              Brasília
+
+RUP/UML                              March 2003                 60                open class                                              Brasília
+
+RUP/UML                              September 2002             60                open class                                              Brasília
+
+RUP/UML                              August 2002                40                open class                                              Brasília
+
+J2EE                                 May 2002                   40                BrasilTelecom (Oi)                                      Brasília
+
+XML                                  March 2002                 40                Anvisa                                                  Brasília
+
+J2EE (Quick view)                    Sep/1998 → Jan/2001        2                 Politec/ Secretaria da Fazenda                          Brasília
+
+HTML/JavaScript                      Sep/1998 → Jan/2001        20                Politec/ Anatel                                         Brasília
+
+PowerDesigner                        Sep/1998 → Jan/2001        20                Politec/ Anatel                                         Brasília
+
+Java                                 Sep/1998 → Jan/2001        40                Politec/ Anatel                                         Brasília
+
+Java                                 Sep/1998 → Jan/2001        40                Politec/ Caixa Econômica Federal                        Brasília
+
+Delphi 4.0                           Sep/1998 → Jan/2001        40                Politec/ Secretaria da Fazenda                          Brasília
+
+J2EE (Servlet/JSP/EJB)               Sep/1998 → Jan/2001        40                Politec/ Banco do Brasil                                Brasília
+
+C for Unix                           Mar/1995 → Sep/1998        40                Câmara de Dirigentes Logistas                           Goiânia
+
+Data Structures and C                Mar/1995 → Sep/1998        60                Universidade Católica de Goiás                          Goiânia
+
+Delphi 2.0                           Mar/1995 → Sep/1998        40                ENCIDEC                                                 Goiânia
+
+Delphi 2.0                           Mar/1995 → Sep/1998        40                SESI                                                    Goiânia
+
+Delphi 2.0                           Mar/1995 → Sep/1998        40                Escola Técnica Federal de Goiás                         Goiânia
+
+Delphi 2.0                           Mar/1995 → Sep/1998        40                Televisão Anhanguera                                    Goiânia
+
+ Certifications
+
+Red Hat Certified System Administrator (RHCSA). Jul 18, 2014 - Nov 01, 2018. (See certificate)
+Red Hat Certified JBoss Administrator (RHCJA). Jul 17, 2014 - Nov 01, 2018. (See certificate)
+Sun Certified Business Component Developer for the Java 2 Platform 1.3, Enterprise Edition (SCBCD). Feb 2007.
+Sun Certified Programmer for the Java 2 Platform, Standartd Edition 5.0 (SCJP). Feb 2007.
+Sun Certified Web Component Developer for the Java 2 Platform 1.3 (SCWCD). Jun 2003
+Sun Certified Programmer for the Java 2 Platform 1.2 (SCJP). May 2002.
+
+ Conferences & Presentations
+
+All my presentations, until this moment, was done in Brazil. So, here I’m keeping the original title (in Brazilian Portuguese) but highlighting (in bold) the subject(s). Here is the list:
+
+2017
+
+    DFJUG online meeting,  Brasília, July 22
+          ☆ Blockchain concepts
+
+          ☆  Material: https://blockchain4devs.github.io/blockchain-demo/docs/pt-br/
+
+          ☆ Videos:
+
+              ○  Blockchain
+
+    DFJUG online meeting,  Brasília, March 6
+          ☆ Building microservices to run on OpenShift
+
+          ☆  Material: https://paulojeronimo.github.io/microservices-on-openshift/
+
+          ☆ Videos:
+
+              ○  Construindo microserviços para execução no OpenShift - parte 1
+
+              ○  Construindo microserviços para execução no OpenShift - parte 2
+
+2014
+
+    JUDCon Brazil,  São Paulo, September 26
+          ☆ Setting up and running Wildfly and RHQ on Docker /Fedora
+
+          ☆  Material: http://paulojeronimo.github.io/JUDCon-2014-Brazil/
+
+          ☆ Videos (recorded after the event):
+
+              ○  Tutorial Docker 1
+
+              ○  Tutorial Docker 2
+
+    Join Community,  Goiânia, May 31
+          ☆ Criando e publicando sites no GitHub Pages com Asciidoctor e Awestruct
+
+          ☆  Material: https://github.com/paulojeronimo/join-community-2014
+
+2011
+
+    Oracle Technology Developer Day (OTN Day),  São Paulo, August 02
+          ☆ 3 presentations:
+
+              ○ Keynote
+
+              ○ Desenvolvimento na leve e moderna plataforma Java EE 6
+
+              ○ Disputa entre ferramentas de IDE: Eclipse, NetBeans, JDeveloper
+
+    JustJava, May 18,  São Paulo
+          ☆ Clusters com GlassFish Server 3.1.
+
+2010
+
+    Semana Acadêmica da Faculdade Projeção,  Brasília, October 17
+          ☆ Clusters de servidores de aplicações Java, demonstrando casos práticos utilizando JBoss e/ou GlassFish.
+
+    2o WorkShop de Tecnologia de Jataí,  Jataí, October 29
+          ☆ Java EE no JBoss AS 6
+
+    Semana Acadêmica da Faculdade Jesus Maria José,  Brasília, November 05
+          ☆ Clusters and high availability in JBoss AS
+
+    Java Senior,  Goiânia, September 11
+          ☆ 5 Presentations:
+
+              ○ Construindo aplicações Java com Maven e Nexus
+
+              ○ Testes em aplicações Java EE 6: como fazer?
+
+              ○ Enterprise JavaBeans 3.1
+
+              ○ Desconferência: Aplicações Java EE reais e em produção: como são?
+
+              ○ Novas soluções para o balanceamento de carga em clusters de JBoss AS
+
+    FLISOL,  Goiânia, April 24
+          ☆ Java EE 6.
+
+From 2001 to 2009, I delivered many presentations related to:
+      □ High availabilty and load balance for application servers
+
+      □ Spring Framework (advanced uses/ AOP)
+
+      □ Extreme Programming
+
+      □ Aspect Oriented Programming (AOP)
+
+      □ Java new features
+
+      □ Web Services
+
+  GitHub
+
+Some of my repositories
+
+    Things that I wrote
+          ☆ cv: The source code of my Curriculum Vitae, written in AsciiDoc format.
+
+          ☆ whoami: My personal presentation, written in AsciiDoc format.
+
+          ☆ java-fundamental-examples: Java 8 samples. Very basic and didatic. Written in Brazilian Portuguese for my Brazilian customers.
+
+          ☆ jboss-scripts: A small bunch of Bash scripts intended to facilitate tasks with different versions of JBoss (including Wildfly, EAP, and older) installed through zips.
+
+          ☆ jboss-domain-mode-scripts: A framework (written in Bash) to install JBoss EAP (domain mode) on RHEL.
+
+          ☆ poc-vraptor-jboss-cluster: A simple VRaptor application ajusted to run on JBoss EAP 6.4.
+
+          ☆ struts2-crud-example: A sample Struts2 CRUD application migrated to run on a JBoss EAP 7. Data persistence (on Oracle) is managed by Hibernate.
+
+          ☆ sislegis-site: SISLEGIS documentation website, wrote with AsciiDoc and Awestruct.
+
+          ☆ sislegis-app: SISLEGIS backend source code (Java EE).
+
+          ☆ sislegis-app-frontend: SISLEGIS frontend source code (JavaScript/ AngularJS)
+
+          ☆ sislegis-ambiente: Scripts (Bash/ JBoss CLI) used to create environments that executes SISLEGIS application.
+
+          ☆ sislegis-ambiente-ubuntu: Environment to run SISLEGIS on Ubuntu.
+
+          ☆ sislegis-ambiente-fedora: Environment to run SISLEGIS on Fedora.
+
+          ☆ sislegis-ambiente-centos: Environment to run SISLEGIS on CentOS.
+
+          ☆ sislegis-ambiente-producao: Environment to run SISLEGIS within a Wildfly cluster (2 instances, domain mode, CentOS).
+
+          ☆ gerador-jboss-bpmsuite-keycloak: A project that integrates JBoss BPM Suite and Keycloak.
+
+          ☆ wildfly-native-management-api-sample: A PoC that shows how to use Wildfly 8.2 managament interface programaticaly.
+
+          ☆ blockchain-demo: Sources (in AsciiDoc format) for the publication "Blockchain: Uma Visualização Gráfica".
+
+          ☆ tutorial-metalsmith: Sources (in AsciiDoc format) for the publication "Tutorial MetalSmith".
+
+          ☆ praticando-git-livro: Sources (in AsciiDoc format) for the publication "Praticando Git".
+
+          ☆ tutorial-keycloak: Sources (in AsciiDoc format) for the publication "Tutorial Keycloak".
+
+          ☆ javaee-tutorial-testes: Sources (in AsciiDoc format) for the publication "Testes em aplicações Java EE com Arquillian".
+
+    Forked repositories (maybe with some code that I fixed or added)
+          ☆ docker-rhel-nexus: OpenShift Dockerfiles, templates and scripts to run Nexus Repository Manager.
+
+          ☆ docker-oracle-xe: Dockerfile of Oracle Database Express Edition 11g Release 2.
+
+Some o f my contributions to projects from others
+
+    forge/core
+          ☆ Fix forge bash script #537
+
+    anders94/blockchain-demo
+          ☆ pt-br docs #18
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+How I build this CV
+
+I build Documents in the same way as Code (Docs-As-Code). Read more about how I do this, and my ideas to develop this CV in an even better way, in
+
+https://paulojeronimo.com/cv/README.html
+
